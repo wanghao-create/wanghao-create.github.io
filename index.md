@@ -9,9 +9,6 @@
       <p><b>w-h19@mails.tsinghua.edu.cn</b></p>
       <p><b>Tsinghua University, Shuangqing Rd. Beijing</b></p>
     </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
-    </td>
   </tr>
 </table>
 
